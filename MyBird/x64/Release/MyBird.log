@@ -1,0 +1,12 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+  uic code\MainScene.ui
+  rcc MainScene.qrc
+  moc code\MainScene.h
+  moc code\Bird.h
+  Bird.cpp
+  MainScene.cpp
+  main.cpp
+  qrc_MainScene.cpp
+  moc_MainScene.cpp
+  moc_Bird.cpp
+  MyBird.vcxproj -> D:\TEST\Test_Qt\MyBird\MyBird\x64\Release\MyBird.exe
