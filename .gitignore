@@ -1,3 +1,7 @@
 
-x64/
-.vs/
+/x64/
+/.vs/
+
+/MyBird/x64/
+/MyBird/*.vcxproj.filters/
+/MyBird/*.vcxproj.user/
