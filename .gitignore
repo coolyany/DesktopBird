@@ -1,7 +1,7 @@
-
+##ignore this file##
 /x64/
 /.vs/
-
+##databfile##
 /MyBird/x64/
-/MyBird/*.vcxproj.filters/
-/MyBird/*.vcxproj.user/
+/MyBird/*.vcxproj.filters
+/MyBird/*.vcxproj.user
