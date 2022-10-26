@@ -14,7 +14,9 @@
 
    ![flybird config](./image/image_001.png)
 ### 目录介绍
-* /MyBird为源码工程目录；/package为QT打包文件，可点击```MyBird.exe```运行；/Setup为安装执行文件。
+* /MyBird为源码工程目录；
+* /package为QT打包文件，可点击```MyBird.exe```运行；
+* /Setup为安装执行文件。
 ### 开发环境
 * windows + MSVC2017 + QT5.14.2
 ### 后期计划
